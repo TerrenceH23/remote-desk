@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/V3e1Tef.jpg" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>Remote Desktop (Azure)</h1>
 This tutorial outlines remote desktop within Azure Virtual Machines.<br />
 
 
